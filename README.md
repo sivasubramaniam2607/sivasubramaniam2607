@@ -1,8 +1,8 @@
-- 👋 Hi, I’m siva subramaniam
-- 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning React and React native projects
+- 👋 Hi, I’m Siva Subramaniam.
+- 👀 I’m interested in Full Stack development.
+- 🌱 I’m currently learning React and React native projects.
 - 💞️ I’m looking for collaborators on React Native projects! Feel free to reach out at letsmailsiva@gmail.com.
-- 📫 reach me at letsmailsiva@gmail.com
+- 📫 reach me at letsmailsiva07@gmail.com✨.
 
   
 
